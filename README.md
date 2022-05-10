@@ -11,7 +11,6 @@ Anaconda - Python 3.7
 </br>
 </br> 
 
-
 ### Step2
 For performing smoothing operation on a image.
 * Average filter
@@ -61,8 +60,8 @@ Display all the images with their respective filters.
 
 
 ## Program:
-### Developed By   : Gowri M
-### Register Number: 212220230019
+### Developed By   : P.SUGANYA
+### Register Number: 212220230049
 </br>
 
 ### 1. Smoothing Filters
