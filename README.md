@@ -11,10 +11,9 @@ Anaconda - Python 3.7
 </br>
 </br> 
 
-### Step2
+
 ### Step2
 For performing smoothing operation on a image.
-
 * Average filter
 ```
 avg_kernel=np.ones((13,13),np.float32)/169
